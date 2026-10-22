@@ -1,7 +1,7 @@
 const produkte = [
-  { name: "Apfel", preis: 1.5, menge: 4 },
+  { name: "Apfel", preis: 1.5, menge: 5 },
   { name: "Brot", preis: "2.5", menge: 1 },
-  { name: "Milch", preis: 1.2, menge: 2 }
+  { name: "Milch", preis: 1.2, menge: 8 }
 ];
 
 function gesamtpreis(liste) {
